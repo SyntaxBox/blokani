@@ -1,0 +1,11 @@
+{
+  "collectionName": "components_username_authors",
+  "info": {
+    "displayName": "author",
+    "icon": "smile-wink"
+  },
+  "options": {
+    "populateCreatorFields": true
+  },
+  "attributes": {}
+}

@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_ggg_chels",
+  "info": {
+    "displayName": "chel"
+  },
+  "options": {},
+  "attributes": {
+    "ggg": {
+      "type": "integer"
+    }
+  }
+}

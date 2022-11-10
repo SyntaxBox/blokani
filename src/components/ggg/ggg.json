@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_ggg_gggs",
+  "info": {
+    "displayName": "ggg",
+    "icon": "adjust"
+  },
+  "options": {},
+  "attributes": {
+    "fff": {
+      "displayName": "chel",
+      "type": "component",
+      "repeatable": false,
+      "component": "ggg.chel"
+    }
+  }
+}
